@@ -1,0 +1,19 @@
+{
+  "name": "webtes",
+  "version": "1.0.0",
+  "description": "Instalando GULP Y SASS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Uzerano/webdeltes.git"
+  },
+  "author": "luis adan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Uzerano/webdeltes/issues"
+  },
+  "homepage": "https://github.com/Uzerano/webdeltes#readme"
+}
